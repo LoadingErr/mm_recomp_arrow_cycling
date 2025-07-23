@@ -1,6 +1,6 @@
 # Majora's Mask: Recompiled Arrow Tweaks
 
-This is a mod that improves bow functionality in Majora's Mask: Recompiled, adding options cycling through them with the press of a button.
+This is a mod that improves bow functionality in Majora's Mask: Recompiled, adding options for cycling through them with the press of a button.
 
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
